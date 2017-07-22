@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://tomascain.github.io",
     "hubpress": "https://tomascain.github.io",
-    "theme": "//tomascain.github.io/themes/uno",
+    "theme": "//tomascain.github.io/themes/saga",
     "images": "https://tomascain.github.io/images"
   },
   "initialisationConfigComponent": {
@@ -25,8 +25,8 @@
     ]
   },
   "site": {
-    "title": "",
-    "description": "",
+    "title": "My Blog",
+    "description": "for testing Hubpress",
     "logo": "",
     "cover": "",
     "delay": "",
