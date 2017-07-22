@@ -6,5 +6,6 @@
 // :hp-alt-title: My English Title
 = test 
 :hp-tags: js
-Content of the test.
-first test post
+
+
+Hello world
