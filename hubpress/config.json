@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "uno"
+    "name": "saga"
   },
   "urls": {
     "site": "https://tomascain.github.io",
     "hubpress": "https://tomascain.github.io",
-    "theme": "//tomascain.github.io/themes/casper",
+    "theme": "//tomascain.github.io/themes/uno",
     "images": "https://tomascain.github.io/images"
   },
   "initialisationConfigComponent": {
