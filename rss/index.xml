@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[The theme named]]></title><description><![CDATA[The theme named]]></description><link>https://tomascain.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 22 Jul 2017 06:51:19 GMT</lastBuildDate><atom:link href="https://tomascain.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[test2]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[The theme named]]></title><description><![CDATA[The theme named]]></description><link>https://tomascain.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 22 Jul 2017 06:56:12 GMT</lastBuildDate><atom:link href="https://tomascain.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[test2]]></title><description><![CDATA[<div class="paragraph">
 <p>hello world again</p>
 </div>]]></description><link>https://tomascain.github.io/2017/07/22/test2.html</link><guid isPermaLink="true">https://tomascain.github.io/2017/07/22/test2.html</guid><pubDate>Sat, 22 Jul 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[test]]></title><description><![CDATA[<div class="paragraph">
 <p>Hello world</p>
@@ -8,4 +8,13 @@
 var b = 30;
 var c = a + b;</code></pre>
 </div>
-</div>]]></description><link>https://tomascain.github.io/2017/07/22/test-3-with-code.html</link><guid isPermaLink="true">https://tomascain.github.io/2017/07/22/test-3-with-code.html</guid><pubDate>Sat, 22 Jul 2017 00:00:00 GMT</pubDate></item></channel></rss>
+</div>]]></description><link>https://tomascain.github.io/2017/07/22/test-3-with-code.html</link><guid isPermaLink="true">https://tomascain.github.io/2017/07/22/test-3-with-code.html</guid><pubDate>Sat, 22 Jul 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[5th post]]></title><description><![CDATA[<div class="paragraph">
+<p>This the 5th post</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code>const = 10</code></pre>
+</div>
+</div>]]></description><link>https://tomascain.github.io/2017/07/22/5th-post.html</link><guid isPermaLink="true">https://tomascain.github.io/2017/07/22/5th-post.html</guid><pubDate>Sat, 22 Jul 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[4th post]]></title><description><![CDATA[<div class="paragraph">
+<p>this is the 4th post</p>
+</div>]]></description><link>https://tomascain.github.io/2017/07/22/4th-post.html</link><guid isPermaLink="true">https://tomascain.github.io/2017/07/22/4th-post.html</guid><pubDate>Sat, 22 Jul 2017 00:00:00 GMT</pubDate></item></channel></rss>
